@@ -1,0 +1,4 @@
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocation\bin\Debug\ExpenseAllocation.dll
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocation\bin\Debug\ExpenseAllocation.pdb
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocation\obj\Debug\ExpenseAllocation.dll
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocation\obj\Debug\ExpenseAllocation.pdb

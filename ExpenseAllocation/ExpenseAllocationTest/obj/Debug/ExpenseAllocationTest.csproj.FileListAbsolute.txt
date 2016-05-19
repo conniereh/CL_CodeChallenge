@@ -1,0 +1,9 @@
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\obj\Debug\ExpenseAllocationTest.csprojResolveAssemblyReference.cache
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\bin\Debug\ExpenseAllocationTest.dll
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\bin\Debug\ExpenseAllocationTest.pdb
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\bin\Debug\ExpenseAllocationTest.dll.CodeAnalysisLog.xml
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\bin\Debug\ExpenseAllocationTest.dll.lastcodeanalysissucceeded
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\bin\Debug\ExpenseAllocation.dll
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\bin\Debug\ExpenseAllocation.pdb
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\obj\Debug\ExpenseAllocationTest.dll
+c:\users\crehfeld\documents\visual studio 2013\Projects\ExpenseAllocation\ExpenseAllocationTest\obj\Debug\ExpenseAllocationTest.pdb
